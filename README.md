@@ -1,21 +1,38 @@
-<details><summary>CLICK ME</summary>
-<p>
+   <details><summary>Click para ver ejemplo para tu perfil en GITHUB</summary>
+    <p>
 
-#### We can hide anything, even code!
+    #### Podemos ocultar cualquier cosa, incluso el código.!
+    
+     # ¡Hola! Soy Wilmer 👋
 
-    ```ruby
-      puts "Hello World"
-    ```
+    Soy un desarrollador frontend senior de Ecuador, Estudiante Universitario  (Comunidad Santo Domingo/Ecuador). Me gusta crear aplicaciones web rápidas con [Vue](https://vuejs.org/) / [React]           (https://es.reactjs.org/) / [Svelte](https://svelte.dev/), fáciles de usar y construidas con las mejores prácticas.
 
-</details> ```</p>
+    ## Últimos articulos publicados
 
-The Markdown will be collapsed by default.
+    - [Laboratorio de ETL a la base de datos chinook](https://github.com/wilmerxx/ETL_Python_Base_de_datos_Sqlite)
+    - [Regresión Lineal con inteligencia artifical en Python](https://github.com/wilmerxx/Machine-Learning-Regresion-Lineal-con-array-)
+    - [Material Design con Angular](https://github.com/wilmerxxx/Material_Design_Angular)
+    - [Proyecto MVC con lenguaje C# en base de datos](https://github.com/wilmerxx/MVC)
+    - [PROYECTO_MDB CONSULTAS SQL AVANZADO Y ETL DE CHINOOK con Python](https://github.com/wilmerxx/PROYECTO_MDB)
 
-![Rendered collapsed](/assets/images/help/writing/collapsed-section-view.png)
 
-After a reader clicks <svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-triangle-right" aria-label="The right triange icon" role="img"><path d="M6.427 4.427l3.396 3.396a.25.25 0 010 .354l-3.396 3.396A.25.25 0 016 11.396V4.604a.25.25 0 01.427-.177z"></path></svg>, the details are expanded.
+   </details> </p>
 
-![Rendered open](/assets/images/help/writing/open-collapsed-section.png)
+# ¡Bienvenido a mi repositorio! 👋
+<p align="center" width="300">
+   <img align="center" width="300" src="https://github.com/wilmerxx/wilmerxx/blob/main/Hacker.gif" />
+   <h3 align="center">¡Hola 👋! Soy Wilmer 👨🏻‍💻</h3>
+</p>
+
+
+
+## Lista de Proyectos
+
+ - [Laboratorio de ETL a la base de datos chinook](https://github.com/wilmerxx/ETL_Python_Base_de_datos_Sqlite)
+ - [Regresión Lineal con inteligencia artifical en Python](https://github.com/wilmerxx/Machine-Learning-Regresion-Lineal-con-array-)
+ - [Material Design con Angular](https://github.com/wilmerxxx/Material_Design_Angular)
+ - [Proyecto MVC con lenguaje C# en base de datos](https://github.com/wilmerxx/MVC)
+ - [PROYECTO_MDB CONSULTAS SQL AVANZADO Y ETL DE CHINOOK con Python](https://github.com/wilmerxx/PROYECTO_MDB)
 
 ## Leer más
 
