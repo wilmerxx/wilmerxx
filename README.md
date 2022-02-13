@@ -20,7 +20,7 @@
 
 # ¡Bienvenido a mi repositorio! 👋
 <p align="center" width="300">
-   <img align="center" width="300" src="https://github.com/wilmerxx/wilmerxx/blob/main/Hacker.gif" />
+   <img align="center" width="200" src="https://github.com/wilmerxx/wilmerxx/blob/main/Hacker.gif" />
    <h3 align="center">¡Hola 👋! Soy Wilmer 👨🏻‍💻</h3>
 </p>
 
@@ -36,5 +36,5 @@
 
 ## Leer más
 
-- [GitHub Especificaciones del formato Markdown](https://github.github.com/gfm/)
-- "[Sintaxis de escritura y formato básicos](/articles/basic-writing-and-formatting-syntax)"
+- [Lista de emojis para README.md](https://gist.github.com/rxaviers/7360908)
+- "[Sintaxis de escritura y formato básicos](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)"
