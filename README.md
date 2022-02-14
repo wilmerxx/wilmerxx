@@ -17,13 +17,23 @@
 
 
    </details> </p>
-    
+<p align="center">
+  <a href="https://github.com/ionic-team/ionic-framework/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Ionic Framework is released under the MIT license." />
+  </a>
+  <a href="https://github.com/ionic-team/ionic/blob/main/.github/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+  </a>
+  <a href="https://discord.gg/6gtHxKXZRW ">
+    <img src="https://img.shields.io/discord/520266681499779082?color=7289DA&label=%23ionic&logo=discord&logoColor=white" alt="Club TEAM ESPE Discord" />
+  </a>
+</p>
+ 
 # ¡Bienvenido a mi repositorio! 👋
 <p align="center" width="300">
    <img align="center" width="200" src="https://github.com/wilmerxx/wilmerxx/blob/main/Hacker.gif" />
    <h3 align="center">¡Hola 👋! Soy Wilmer 👨🏻‍💻</h3>
 </p>
-
 
 
 ## Lista de Proyectos
