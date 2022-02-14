@@ -17,18 +17,6 @@
 
 
    </details> </p>
-
-.. image:: https://img.shields.io/pypi/v/beets.svg
-    :target: https://pypi.python.org/pypi/beets
-
-.. image:: https://img.shields.io/codecov/c/github/beetbox/beets.svg
-    :target: https://codecov.io/github/beetbox/beets
-
-.. image:: https://github.com/beetbox/beets/workflows/ci/badge.svg?branch=master
-    :target: https://github.com/beetbox/beets/actions
-
-.. image:: https://repology.org/badge/tiny-repos/beets.svg
-    :target: https://repology.org/project/beets/versions
     
 # ¡Bienvenido a mi repositorio! 👋
 <p align="center" width="300">
