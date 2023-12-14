@@ -37,7 +37,7 @@
 
 
 ## Lista de Proyectos
-
+ - [Proyeto de Ganaderia-Crianza](https://github.com/wilmerxx/Ganaderia-crianza)
  - [Laboratorio de ETL a la base de datos chinook](https://github.com/wilmerxx/ETL_Python_Base_de_datos_Sqlite)
  - [Regresión Lineal con inteligencia artifical en Python](https://github.com/wilmerxx/Machine-Learning-Regresion-Lineal-con-array-)
  - [Material Design con Angular](https://github.com/wilmerxxx/Material_Design_Angular)
