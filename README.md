@@ -43,6 +43,7 @@
  - [Material Design con Angular](https://github.com/wilmerxxx/Material_Design_Angular)
  - [Proyecto MVC con lenguaje C# en base de datos](https://github.com/wilmerxx/MVC)
  - [PROYECTO_MDB CONSULTAS SQL AVANZADO Y ETL DE CHINOOK con Python](https://github.com/wilmerxx/PROYECTO_MDB)
+ - [GESTION DE JUEGOS TRADICIONALES CON ANGULAR](https://github.com/wilmerxx/gestionJuegos.git)
 
 ## Leer más
 
